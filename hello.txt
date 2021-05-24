@@ -1,4 +1,8 @@
 hello nihao
+<<<<<<< HEAD
 222
 hot-fix
 
+=======
+really hot-fix
+>>>>>>> hot-fix
